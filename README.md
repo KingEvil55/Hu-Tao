@@ -2,13 +2,13 @@
 <!--Project Title Image-->
 
 <p align="center">
-  <img src="https://graph.org//file/a5b622bc803c3f66e5fe5.png"/>
+  <img src="https://graph.org/file/5e5c5bd429a42372f3b6d.jpg"/>
 </p>
 
 <!--Project Title Image-->
 
 <!--Project Title-->
-<h1 align="center"><b> [ HU TAO ] </b>
+<h1 align="center"><b> [ Gojo Robot ] </b>
 <!--Project Title-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -27,4 +27,4 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/TeamNovaX/Hu-Tao"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/KingEvil55/Hu-Tao"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
